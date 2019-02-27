@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Meta>
+		<PreferUserConfiguration>false</PreferUserConfiguration>
+		<OmitItemsWithDefaultValues>true</OmitItemsWithDefaultValues>
+		<DpiFactorX>1</DpiFactorX>
+		<DpiFactorY>1</DpiFactorY>
+	</Meta>
+	<Application>
+		<LastUpdateCheck>2018-11-28T13:36:50Z</LastUpdateCheck>
+		<LastUsedFile>
+			<Path>..\..\TAGNATI\Documents\KeePass\Database.kdbx</Path>
+			<CredProtMode>Obf</CredProtMode>
+			<CredSaveMode>NoSave</CredSaveMode>
+		</LastUsedFile>
+		<MostRecentlyUsed>
+			<MaxItemCount>12</MaxItemCount>
+			<Items>
+				<ConnectionInfo>
+					<Path>..\..\TAGNATI\Documents\KeePass\Database.kdbx</Path>
+					<CredProtMode>Obf</CredProtMode>
+					<CredSaveMode>NoSave</CredSaveMode>
+				</ConnectionInfo>
+				<ConnectionInfo>
+					<Path>..\..\TAGNATI\Google Drive\Database.kdbx</Path>
+					<CredProtMode>Obf</CredProtMode>
+					<CredSaveMode>NoSave</CredSaveMode>
+				</ConnectionInfo>
+			</Items>
+		</MostRecentlyUsed>
+		<WorkingDirectories>
+			<Item>Database@..\..\TAGNATI\Documents\KeePass</Item>
+			<Item>Export@..\..\TAGNATI\Google Drive</Item>
+			<Item>Sync@..\..\TAGNATI\Google Drive</Item>
+		</WorkingDirectories>
+		<Start>
+			<CheckForUpdate>true</CheckForUpdate>
+			<CheckForUpdateConfigured>true</CheckForUpdateConfigured>
+		</Start>
+		<FileOpening />
+		<FileClosing />
+		<TriggerSystem>
+			<Triggers />
+		</TriggerSystem>
+		<PluginCompatibility>
+			<Item>@S2GNodVkzWG+331Dx7zPLegOekgbXJMdXZK+FfmkRso=@2.40.0.17978@1</Item>
+			<Item>@njM1z+iCaTJe52iTJjyZSHgM8Mrw99yB43AWYWlBqFQ=@2.40.0.17978@1</Item>
+			<Item>@gLE6E7Nu4dbFy14K/puE1quf+8U/LLWywp0bZZnDEPM=@2.40.0.17978@1</Item>
+			<Item>@lIQtLgdNfVo8FYMlhrAMlIeXsUPGuO9kJq+eza9HjP4=@2.40.0.17978@1</Item>
+			<Item>@k7Reeo0kFlyre1JnV+KHbAvwmwf4M2xPFT1PogCpSy4=@2.40.0.17978@1</Item>
+			<Item>@8hxhUCklDvQlfDPPRIOZtwhHelurskLO7whXUnMzh2o=@2.40.0.17978@1</Item>
+			<Item>@pp92knijy1y2xx+7SEy/skXvEA532zyF3BXzQQ16LxE=@2.40.0.17978@1</Item>
+			<Item>@6Np+08lG3mvOxA9gGoSlqpwVIUDkpeAEIX2wxaVZen0=@2.40.0.17978@1</Item>
+			<Item>@35uPtsEc0ZUw8D8ljaLf9mj8B+cdAnZllgaDphBexSc=@2.40.0.17978@1</Item>
+			<Item>@BdbFJnAI5AxOrUtQeJd6sIJnsGXZr140hlR0hhNGMe0=@2.40.0.17978@1</Item>
+			<Item>@Bab7J473h2N3rNgpZ1cRkO6ENJlAUt40bVL+dqOXgyM=@2.40.0.17978@1</Item>
+			<Item>@5pYKDzMWcFW5qbm99DgntVfGGGmNCRS8PMrWsRfNGEw=@2.40.0.17978@1</Item>
+			<Item>@0F8Ve/CNzY0HiSD944kmTDq2Az6A6UGctQhJtkie8U8=@2.40.0.17978@1</Item>
+			<Item>@cTBLH3TrLm506bF4wNuEjpV0tA+gHN7oM3anPmSlkOg=@2.40.0.17978@1</Item>
+			<Item>@3FRofHi7DEubTCJeedt6FxHRQ36wn9H7EcoYDg7fsaM=@2.40.0.17978@1</Item>
+			<Item>@0UH/fsW5ELdzlxYpcQXaP9agn68RPEAwYjHZSd23aRo=@2.40.0.17978@1</Item>
+			<Item>@+L7zjMYotPdsF+QTx7m9bEVxVeZJgFeER0MS2xlzQJo=@2.40.0.17978@1</Item>
+			<Item>@O3QrHCPHK9wGvT93ic4spunNxHaRP1GBSQk6ivk3Cls=@2.40.0.17978@1</Item>
+			<Item>@4anCUtKletTNO3dVxSshkvRPSXP0E+FneWTMl+zZi8w=@2.40.0.17978@1</Item>
+			<Item>@eQQv2oqvRE64XUKjfdSKDafOV9izbujqsnHhReiFldk=@2.40.0.17978@1</Item>
+			<Item>@auBCi16ne9y9erp7sEm41qTN3lGkzmnC8ViTZgXVWHg=@2.40.0.17978@1</Item>
+			<Item>@V6AMPVXX6T9quxuEXHOwoVOwWEvDXTh7XVBcAH7ConI=@2.40.0.17978@1</Item>
+			<Item>@5/Xc2KJzkSX65lf697vkAmB4nOUmIFAAEsu7InrlWyI=@2.40.0.17978@1</Item>
+			<Item>@//bNyK1VhYY+rZSMQWs2csC+kPsusdFR7vvwaKOkkBI=@2.40.0.17978@1</Item>
+			<Item>@3iJU9MNbXrQGVdjzsjL68uYHRQ2/k83iWUDIbhTO3+o=@2.40.0.17978@1</Item>
+			<Item>@HuLD0q/nOBd7goEA7Vw/Jsi8oaCpmwFFwXOTCa22clo=@2.40.0.17978@1</Item>
+			<Item>@LTKuCPYSRDX/y79BQEM17tHpi8FbVDVgRDiOSj/cbak=@2.40.0.17978@1</Item>
+			<Item>@jiY95jIvnfW+dVcDst3QXvGJ8mPotGBFw6QFQ2thxqQ=@2.40.0.17978@1</Item>
+			<Item>@FM0jUHj7MQhgpPLgpUMlP2xNd5IueLkKRUnmPcb4Zog=@2.40.0.17978@1</Item>
+			<Item>@IOK0EJtMhDFqKvFIZI6+k46ubRp5Dj5hmw2KYVzI0dI=@2.40.0.17978@1</Item>
+			<Item>@bUoRRyHfWJGMTIuktep6Be1c9IZzEIj4XgvoYxtOPMk=@2.40.0.17978@1</Item>
+			<Item>@KIZ4U0lYfrjvk5eJbSyDmFR49e1OkpNT3fwZ4zrokUA=@2.40.0.17978@1</Item>
+			<Item>@INXTtBEyUwEU7V207PgM1vqFDAH8jUHhnCNyH0TQisU=@2.40.0.17978@1</Item>
+			<Item>@Sh6/7/kAl7u5xsmAZvr2D1GUrwM3A7+XtUYyBK5FUng=@2.40.0.17978@1</Item>
+			<Item>@kTec+OEVrDJ6TrSDsBORRLBUJqHIdwJnWTOfmY5Y8Lg=@2.40.0.17978@1</Item>
+			<Item>@jpt/aSAoGLqIyEbvOG/ZO6dlAAyYfrOzAxJ/00DKbzQ=@2.40.0.17978@1</Item>
+			<Item>@fHpgJ7iIMwlQmzOZWWsoi7hcp2HsdRSzQ0MAII4DLzY=@2.40.0.17978@1</Item>
+			<Item>@8wWy/qMpyE9AWKty8AfE1w906+ZsmjrrFsNa90SnFBQ=@2.40.0.17978@1</Item>
+			<Item>@1gXFQHFmUQO+2SARStsSYrKOvfuCT3Mc3lY6m/vaOGs=@2.40.0.17978@1</Item>
+			<Item>@3qImjWYvTwo/NwxZpeHiMrDrqRcjZ1geKyuuZA1uoIU=@2.40.0.17978@1</Item>
+			<Item>@kIrcyj+JN1bYdwmAIzoAmyb7HYmk/1QVNkJ3pdgQCaA=@2.40.0.17978@1</Item>
+			<Item>@RSADZqtqUFxXNgKCwS0oYRP5PMO+1iqXG31NPWcgfmo=@2.40.0.17978@1</Item>
+			<Item>@y8oV5pWuij5sf05JKlY2dZBBp4UbF9WNb3vCzlHtTlU=@2.40.0.17978@1</Item>
+			<Item>@CbWKXt5lnV2rO7tG7yp4R9JecrEcXueosKCcAP+OvgM=@2.40.0.17978@1</Item>
+			<Item>@OBe8iKxClVgs3FDw1cLkQBiGiFsT4ps10k4xGP3Qz0I=@2.40.0.17978@1</Item>
+			<Item>@mFEVVx1BpdpP6Tew34ien2JaTM9WCbe8ID62gs58ZFU=@2.40.0.17978@1</Item>
+			<Item>@xbgpA2uXsOZvUYbTWojXy+z/Kq56zOAc4I6L3IP/dAU=@2.40.0.17978@1</Item>
+			<Item>@4L44Lgrdzjc3YpO3PiLeODA+6kq4szg71i29xyV/7Co=@2.40.0.17978@1</Item>
+			<Item>@412L6i2+kS34L5/I4VfriU9LseQrfYBHhhqUgmSsItI=@2.40.0.17978@1</Item>
+			<Item>@ECfUut6+qfRxYm7NyssynYjnHMIhk/xZT5YSgzbmBBE=@2.40.0.17978@1</Item>
+			<Item>@HckF2xuuBOHQ+EuIfsiCPbPMde0czHL+i5ZNNLzJH6I=@2.40.0.17978@1</Item>
+			<Item>@ufjUoXzDN4+Wc1ePJ/EjuiQHG+YAml9dx5IB1p1BtBE=@2.40.0.17978@1</Item>
+			<Item>@Cd7F2F5HmfmGvG7SmSjiW15DTVkp4KwNz3lUHJdHGOM=@2.40.0.17978@1</Item>
+			<Item>@DYx7sXWyAiPO2kSCDgb8nRDdm3t4rYJ4aAQawZ6lYhc=@2.40.0.17978@1</Item>
+			<Item>@DRg3nf64pQyGtsInSOBqo5ZivzGG3EVrMGDJql4khQw=@2.40.0.17978@1</Item>
+			<Item>@JxgFaBY7l0PdIxHu+NqVa4yMvBL7vF9YDBUUCNQae4Q=@2.40.0.17978@1</Item>
+			<Item>@RGaeeXZISSMY+5O/XtDdczXqyBSo5bhKk+MvPb22PGY=@2.40.0.17978@1</Item>
+			<Item>@U8s01O9CE/NNhG9zI5ysjPU7LlSqW7SPhEIwluinijI=@2.40.0.17978@1</Item>
+			<Item>@YY+kp8QaW0cul746duvskafy+W/er/VwzFzyum5JbrQ=@2.40.0.17978@1</Item>
+			<Item>@BZ4AN8ssJJzZXx9bzAV48VJ3XPnlaDnFmd9m11PSAco=@2.40.0.17978@1</Item>
+			<Item>@vXDG0PGc89W2Bph+julKAO3DFJgz569ZtP+LTNte+RQ=@2.40.0.17978@1</Item>
+			<Item>@g8a1hZ55foqCfAPhKbrA3OugXnkISDZZMpSZfEshj7A=@2.40.0.17978@1</Item>
+			<Item>@gJUDUvGsuhSV9hN5L7PcNCvGccJ+qTGj663UGTVCScE=@2.40.0.17978@1</Item>
+			<Item>@DQiJuuFIBo8YlPywxxvxWrPHSdAQQHeqbDAJyLEtkbY=@2.40.0.17978@1</Item>
+		</PluginCompatibility>
+	</Application>
+	<Logging />
+	<MainWindow>
+		<X>-925</X>
+		<Y>278</Y>
+		<Width>670</Width>
+		<Height>435</Height>
+		<SplitterHorizontalFrac>0.8333</SplitterHorizontalFrac>
+		<SplitterVerticalFrac>0.25</SplitterVerticalFrac>
+		<Layout>Default</Layout>
+		<ToolBar />
+		<EntryView />
+		<TanView />
+		<EntryListColumnCollection>
+			<Column>
+				<Type>Title</Type>
+				<Width>90</Width>
+			</Column>
+			<Column>
+				<Type>UserName</Type>
+				<Width>90</Width>
+			</Column>
+			<Column>
+				<Type>Password</Type>
+				<Width>90</Width>
+				<HideWithAsterisks>true</HideWithAsterisks>
+			</Column>
+			<Column>
+				<Type>Url</Type>
+				<Width>90</Width>
+			</Column>
+			<Column>
+				<Type>Notes</Type>
+				<Width>90</Width>
+			</Column>
+		</EntryListColumnCollection>
+		<EntryListColumnDisplayOrder>0 1 2 3 4</EntryListColumnDisplayOrder>
+		<ListSorting>
+			<Column>0</Column>
+			<Order>Ascending</Order>
+		</ListSorting>
+	</MainWindow>
+	<UI>
+		<TrayIcon />
+		<Hiding />
+		<StandardFont>
+			<Family>Microsoft Sans Serif</Family>
+			<Size>8.25</Size>
+			<GraphicsUnit>Point</GraphicsUnit>
+			<Style>Regular</Style>
+			<OverrideUIDefault>false</OverrideUIDefault>
+		</StandardFont>
+		<PasswordFont>
+			<Family>Courier New</Family>
+			<Size>8.25</Size>
+			<GraphicsUnit>Point</GraphicsUnit>
+			<Style>Regular</Style>
+			<OverrideUIDefault>false</OverrideUIDefault>
+		</PasswordFont>
+		<BannerStyle>WinVistaBlack</BannerStyle>
+		<DataEditorFont>
+			<Family>Microsoft Sans Serif</Family>
+			<Size>8.25</Size>
+			<GraphicsUnit>Point</GraphicsUnit>
+			<Style>Regular</Style>
+			<OverrideUIDefault>false</OverrideUIDefault>
+		</DataEditorFont>
+		<UIFlags>0</UIFlags>
+		<KeyCreationFlags>0</KeyCreationFlags>
+		<KeyPromptFlags>0</KeyPromptFlags>
+	</UI>
+	<Security>
+		<WorkspaceLocking>
+			<LockAfterTime>0</LockAfterTime>
+			<LockAfterGlobalTime>0</LockAfterGlobalTime>
+		</WorkspaceLocking>
+		<Policy />
+		<MasterPassword>
+			<MinimumLength>0</MinimumLength>
+			<MinimumQuality>0</MinimumQuality>
+		</MasterPassword>
+	</Security>
+	<Native />
+	<PasswordGenerator>
+		<AutoGeneratedPasswordsProfile>
+			<GeneratorType>CharSet</GeneratorType>
+			<Length>20</Length>
+			<CharSetRanges>ULD_______</CharSetRanges>
+		</AutoGeneratedPasswordsProfile>
+		<LastUsedProfile>
+			<Name>(Custom)</Name>
+			<GeneratorType>CharSet</GeneratorType>
+			<Length>20</Length>
+			<CharSetRanges>_LD_______</CharSetRanges>
+		</LastUsedProfile>
+		<UserProfiles />
+	</PasswordGenerator>
+	<Defaults>
+		<OptionsTabIndex>0</OptionsTabIndex>
+		<SearchParameters>
+			<ComparisonMode>InvariantCultureIgnoreCase</ComparisonMode>
+		</SearchParameters>
+		<KeySources>
+			<Association>
+				<DatabasePath>..\..\TAGNATI\Documents\KeePass\Database.kdbx</DatabasePath>
+				<Password>true</Password>
+			</Association>
+		</KeySources>
+	</Defaults>
+	<Integration>
+		<HotKeyGlobalAutoType>393281</HotKeyGlobalAutoType>
+		<HotKeySelectedAutoType>0</HotKeySelectedAutoType>
+		<HotKeyShowWindow>393291</HotKeyShowWindow>
+		<HotKeyEntryMenu>0</HotKeyEntryMenu>
+		<UrlSchemeOverrides>
+			<BuiltInOverridesEnabled>1</BuiltInOverridesEnabled>
+			<CustomOverrides />
+		</UrlSchemeOverrides>
+		<AutoTypeAbortOnWindows />
+		<ProxyType>System</ProxyType>
+		<ProxyAuthType>Auto</ProxyAuthType>
+	</Integration>
+	<Custom />
+</Configuration>

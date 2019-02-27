@@ -1,0 +1,9 @@
+D:\TAGNATI\source\repos\KeePass\KeePass\bin\Debug\KeePass.dll
+D:\TAGNATI\source\repos\KeePass\KeePass\bin\Debug\KeePass.pdb
+D:\TAGNATI\source\repos\KeePass\KeePass\bin\Debug\KeePass.exe
+D:\TAGNATI\source\repos\KeePass\KeePass\bin\Debug\KeePass.exe.config
+D:\TAGNATI\source\repos\KeePass\KeePass\bin\Debug\KeePass.XmlSerializers.dll
+D:\TAGNATI\source\repos\KeePass\KeePass\obj\Debug\FormindPlugin.csproj.CoreCompileInputs.cache
+D:\TAGNATI\source\repos\KeePass\KeePass\obj\Debug\FormindPlugin.csproj.CopyComplete
+D:\TAGNATI\source\repos\KeePass\KeePass\obj\Debug\KeePass.dll
+D:\TAGNATI\source\repos\KeePass\KeePass\obj\Debug\KeePass.pdb
